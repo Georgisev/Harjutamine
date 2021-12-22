@@ -1,1 +1,1 @@
-programeerimise alusel kasutaks seda kohta, kus kirjutan.
+GitHub on veebisait ja pilvepõhine teenus, mis aitab arendajatel oma koodi salvestada ja hallata, samuti koodi muudatusi jälgida ja juhtida. Et mõista täpselt, mis GitHub on, peate teadma kahte ühendatud põhimõtet. Need kes registreerivad ennast need kasutavadki.
